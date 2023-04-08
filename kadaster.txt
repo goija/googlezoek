@@ -1,0 +1,135 @@
+# substack
+{
+    "query": {
+        "apikey": "00529200-d370-11ed-a4f0-19411c3196bf",
+        "q": "\"kadaster\"",
+        "url": "https://www.google.com/search?q=%22kadaster%22&oq=%22kadaster%22&hl=en&gl=us&sourceid=chrome&ie=UTF-8"
+    },
+    "knowledge_graph": [
+        {
+            "title": "Cadastre",
+            "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+            "description": "DescriptionA cadastre or cadaster is a comprehensive recording of the real estate or real property's metes-and-bounds of a country.\nOften it is represented graphically in a cadastral map. Wikipedia"
+        }
+    ],
+    "organic": [
+        {
+            "position": 1,
+            "title": "Kadaster | Particulier - Kadaster.nl particulier",
+            "url": "https://www.kadaster.nl/",
+            "destination": "https://www.kadaster.nl",
+            "description": "Het Kadaster is dé bron van informatie over eigendom en gebruik van vastgoed en ruimte in Nederland. De informatie is grotendeels openbaar en beschikbaar.",
+            "isAmp": false,
+            "sitelinks": [
+                {
+                    "title": "About us",
+                    "description": "The Netherlands' Cadastre, Land Registry and Mapping Agency ...",
+                    "url": "https://www.kadaster.nl/about-us"
+                },
+                {
+                    "title": "Eigendomsinformatie",
+                    "description": "Bestel Eigendomsinformatie bij het Kadaster: informatie over de ...",
+                    "url": "https://www.kadaster.nl/producten/woning/eigendomsinformatie"
+                },
+                {
+                    "title": "Mijn Kadaster",
+                    "description": "Op Mijn Kadaster bestelt u makkelijk producten online. Log ...",
+                    "url": "https://mijn.kadaster.nl/"
+                },
+                {
+                    "title": "Registering Ship Ownership in ...",
+                    "description": "... (ship registry) in the public registers. The ships register in ...",
+                    "url": "https://www.kadaster.nl/registering-ship-ownership-in-the-netherlands"
+                }
+            ]
+        },
+        {
+            "position": 2,
+            "title": "Kadaster | International - Kadaster.com",
+            "url": "https://www.kadaster.com/",
+            "destination": "https://www.kadaster.com",
+            "description": "Kadaster shares knowledge on land administration and geo information with other countries. Read more about our our international activities.",
+            "isAmp": false,
+            "date": "Mar 2, 2023",
+            "sitelinks": [
+                {
+                    "title": "About us",
+                    "url": "https://www.kadaster.com/about-us",
+                    "destination": "https://www.kadaster.com › about-us",
+                    "description": "The Netherlands' Cadastre, Land Registry and Mapping Agency – in short Kadaster – collects and registers administrative and spatial data on property and the ...",
+                    "isAmp": false
+                }
+            ]
+        },
+        {
+            "position": 3,
+            "title": "Kadaster - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Kadaster",
+            "destination": "https://en.wikipedia.org › wiki › Kadaster",
+            "description": "Kadaster is the name designation of the Dutch Cadastre, Land Registry and national mapping agency in the Netherlands. The word Kadaster comes from the ...",
+            "isAmp": false
+        },
+        {
+            "position": 4,
+            "title": "Kadaster - Crunchbase Company Profile & Funding",
+            "url": "https://www.crunchbase.com/organization/kadaster",
+            "destination": "https://www.crunchbase.com › organization › kadaster",
+            "description": "Kadaster is the government administration which provide Land Registering and providing real estate data and related rights.",
+            "isAmp": false
+        },
+        {
+            "position": 5,
+            "title": "kadaster",
+            "url": "https://en.wiktionary.org/wiki/kadaster",
+            "destination": "https://en.wiktionary.org › wiki › kadaster",
+            "description": "From Dutch kadaster (“cadastre”), from French cadastre (“cadastre”), from Occitan cathastre, from Italian catastro (modern catasto), from Venetian catastico ...",
+            "isAmp": false
+        },
+        {
+            "position": 6,
+            "title": "Kadaster International",
+            "url": "https://www.landportal.org/organization/kadaster-international",
+            "destination": "https://www.landportal.org › organization › kadaster-i...",
+            "description": "The Netherlands' Cadastre, Land Registry and Mapping Agency – in short Kadaster – collects and registers administrative and spatial data on property and the ...",
+            "isAmp": false
+        },
+        {
+            "position": 7,
+            "title": "Translate \"kadaster\" from Dutch to English - Interglot Mobile",
+            "url": "https://m.interglot.com/nl/en/kadaster",
+            "destination": "https://m.interglot.com › kadaster",
+            "description": "Machine Translations · kadaster cadastre · kadaster land registry · kadaster land register · kadaster cadaster · kadaster cadastre ...",
+            "isAmp": false
+        }
+    ],
+    "related_searches": [
+        {
+            "title": "kadaster meaning",
+            "url": "https://www.google.com/search?hl=en&q=Kadaster+meaning&sa=X&ved=2ahUKEwj78syarZr-AhXGNOwKHfdrCA8Q1QJ6BAg1EAE"
+        },
+        {
+            "title": "kadaster online",
+            "url": "https://www.google.com/search?hl=en&q=Kadaster+online&sa=X&ved=2ahUKEwj78syarZr-AhXGNOwKHfdrCA8Q1QJ6BAg0EAE"
+        },
+        {
+            "title": "kadaster international",
+            "url": "https://www.google.com/search?hl=en&q=Kadaster+international&sa=X&ved=2ahUKEwj78syarZr-AhXGNOwKHfdrCA8Q1QJ6BAgzEAE"
+        },
+        {
+            "title": "woz-waarde",
+            "url": "https://www.google.com/search?hl=en&q=WOZ-waarde&sa=X&ved=2ahUKEwj78syarZr-AhXGNOwKHfdrCA8Q1QJ6BAgyEAE"
+        },
+        {
+            "title": "kadaster nederland",
+            "url": "https://www.google.com/search?hl=en&q=Kadaster+Nederland&sa=X&ved=2ahUKEwj78syarZr-AhXGNOwKHfdrCA8Q1QJ6BAguEAE"
+        }
+    ],
+    "number_of_results": 4500000,
+    "pagination": {
+        "current_page": null,
+        "next_page": null,
+        "previous_page": null,
+        "pages": []
+    }
+}
+
